@@ -1,0 +1,372 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Birds Portfolio\n"
+"POT-Creation-Date: 2015-01-26 11:44+0100\n"
+"PO-Revision-Date: 2015-01-26 11:44+0100\n"
+"Last-Translator: Frédéric Serva <fred.serva@gmail.com>\n"
+"Language-Team: Frédéric Serva <fred.serva@gmail.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin.php:22
+msgid "Enter project title here"
+msgstr "Saisissez le nom du projet ici"
+
+#: admin/admin.php:41
+msgid "Featured Image"
+msgstr "Image à la Une"
+
+#: admin/admin.php:43
+msgid "Project Title"
+msgstr "Nom du projet"
+
+#: admin/admin.php:44
+msgid "Categories"
+msgstr "Catégories"
+
+#: admin/messages.php:17
+#, php-format
+msgid "Project updated. <a href=\"%s\">View Project</a>"
+msgstr "Projet mis à jour.  <a href=\"%s\">Voir le document</a>"
+
+#: admin/messages.php:18
+msgid "Custom field updated."
+msgstr "﻿Champ personnalisé mis à jour."
+
+#: admin/messages.php:19
+msgid "Custom field deleted."
+msgstr "﻿Champ personnalisé supprimé."
+
+#: admin/messages.php:20
+msgid "Project updated."
+msgstr "Projet mis à jour."
+
+#: admin/messages.php:21
+#, php-format
+msgid "Project restored to revision from %s"
+msgstr "Document restauré depuis la révision de %s"
+
+#: admin/messages.php:22
+#, php-format
+msgid "Project published. <a href=\"%s\">View It</a>"
+msgstr "Projet publié.  <a href=\"%s\">Voir le document</a>"
+
+#: admin/messages.php:23
+msgid "Project saved."
+msgstr "Projet enregistré."
+
+#: admin/messages.php:24
+#, php-format
+msgid "Project submitted. <a target=\"_blank\" href=\"%s\">Preview Project</a>"
+msgstr ""
+"Projet soumis. <a target=\"_blank\" href=\"%s\">Prévisualiser le document</a>"
+
+#: admin/messages.php:25
+#, php-format
+msgid ""
+"Project scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview Project</a>"
+msgstr ""
+"Document planifié pour:  <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Prévisualiser le document</a>"
+
+#. translators: Publish box date format, see http://php.net/date
+#: admin/messages.php:27
+msgid "M j, Y @ G:i"
+msgstr "j M Y @ G:i"
+
+#: admin/messages.php:28
+#, php-format
+msgid ""
+"Project draft updated. <a target=\"_blank\" href=\"%s\">Preview Project</a>"
+msgstr ""
+"Brouillon mis à jour. <a target=\"_blank\" href=\"%s\">Prévisualiser le "
+"document</a>"
+
+#: admin/metabox.php:24
+msgid "Project Informations"
+msgstr "Informations relatives au projet"
+
+#: admin/metabox.php:44
+msgid "Short Description"
+msgstr "Description courte"
+
+#: admin/metabox.php:45
+msgid "A short description of the project."
+msgstr "Brève description du projet."
+
+#: admin/metabox.php:59
+msgid "Client Name"
+msgstr "﻿Nom du client"
+
+#: admin/metabox.php:60
+msgid "Enter the name of your Client."
+msgstr "Saisissez le nom de votre client."
+
+#: admin/metabox.php:65
+msgid "Company Name"
+msgstr "﻿Nom de l'entreprise"
+
+#: admin/metabox.php:74
+msgid "Testimonial"
+msgstr "Témoignage"
+
+#: admin/metabox.php:75
+msgid ""
+"Enter a testimonial from your Client to be displayed on the single Project "
+"page"
+msgstr ""
+"Ajoutez un témoignage de votre Client. Il sera affiché sur la page du projet"
+
+#: admin/metabox.php:89
+msgid "Project Link"
+msgstr "Lien"
+
+#: admin/metabox.php:90
+msgid "Enter an URL to link this Portfolio Project to your Client Website."
+msgstr "﻿Saisissez une URL menant vers le site internet de votre client."
+
+#: admin/metabox.php:104 assets/templates/single-portfolio.php:95
+msgid "Country"
+msgstr "﻿Pays"
+
+#: admin/metabox.php:105
+msgid "Enter the country where this project has been realised."
+msgstr "﻿Saisissez le pays du client pour lequel ce projet a été réalisé."
+
+#: admin/metabox.php:119 assets/templates/single-portfolio.php:102
+msgid "Project Manager"
+msgstr "﻿Chef de projet"
+
+#: admin/metabox.php:120
+msgid "Enter the name of the Project Manager."
+msgstr "﻿Entrez le nom du gestionnaire de projet."
+
+#: admin/metabox.php:134
+msgid "Project Gallery"
+msgstr "Galerie d'images"
+
+#: admin/metabox.php:135
+msgid "Upload the images related to this project."
+msgstr "Mettez en ligne les images liées à ce projet."
+
+#: admin/metabox.php:135
+msgid "The Featured Image won't appear in the slider"
+msgstr "L'image à la Une n'apparaîtra pas dans le slider"
+
+#: admin/metabox.php:135
+msgid "You can drag and drop the images to reorder them."
+msgstr "﻿Vous pouvez glisser et déposer les images pour en réorganiser l'ordre."
+
+#: admin/metabox.php:141
+msgid "Add Images"
+msgstr "﻿Ajouter des images"
+
+#: admin/metabox.php:151 birds-portfolio.php:143
+msgid "Remove image"
+msgstr "Supprimer l'image"
+
+#: admin/metabox.php:167
+msgid "Video Embedded Code"
+msgstr "Code d'intégration (embedded) de la vidéo"
+
+#: admin/metabox.php:168
+msgid "Insert a video into your project page."
+msgstr "Intégrez une vidéo dans la page de votre projet."
+
+#: admin/metabox.php:168
+msgid "The video will appear before the Image Gallery in the slideshow."
+msgstr "La vidéo apparaîtra avant les images dans le slider."
+
+#: assets/templates/archive-portfolio.php:71
+msgid "No project in this category"
+msgstr "﻿Aucun projet dans cette catégorie"
+
+#: assets/templates/portfolio.php:47
+msgid "All"
+msgstr "Tous"
+
+#: assets/templates/single-portfolio.php:88
+msgid "Client"
+msgstr "﻿Client"
+
+#: assets/templates/single-portfolio.php:111
+msgid "Category"
+msgstr "﻿Catégorie"
+
+#: assets/templates/single-portfolio.php:125
+msgid "Visite Website:"
+msgstr "﻿Visitez le site internet :"
+
+#: assets/templates/single-portfolio.php:142
+msgid "Related Work"
+msgstr "Projets similaires"
+
+#: birds-portfolio.php:141
+msgid "Upload or Choose the Image Files to include to the Project"
+msgstr ""
+"Mettez en ligne ou choisissez les fichiers d'image à incorporer au projet"
+
+#: birds-portfolio.php:142
+msgid "Add to Gallery"
+msgstr "﻿Ajouter à la galerie"
+
+#: includes/class-page-templater.php:45 includes/cpt.php:18
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: includes/cpt.php:16
+msgctxt "Post Type General Name"
+msgid "Projects"
+msgstr "Projets"
+
+#: includes/cpt.php:17
+msgctxt "Post Type Singular Name"
+msgid "Project"
+msgstr "Projet"
+
+#: includes/cpt.php:19
+msgid "Parent Project:"
+msgstr "Pprojet parent:"
+
+#: includes/cpt.php:20
+msgid "All Projects"
+msgstr "﻿Tous les projets"
+
+#: includes/cpt.php:21
+msgid "View Project"
+msgstr "﻿Voir le projet"
+
+#: includes/cpt.php:22
+msgid "Add New Project"
+msgstr "Ajouter un nouveau projet"
+
+#: includes/cpt.php:23
+msgid "Add New"
+msgstr "Ajouter"
+
+#: includes/cpt.php:24
+msgid "Edit Project"
+msgstr "﻿Modifier le projet"
+
+#: includes/cpt.php:25
+msgid "Update Project"
+msgstr "﻿Mettre à jour le projet"
+
+#: includes/cpt.php:26
+msgid "Search Project"
+msgstr "Chercher dans les projets"
+
+#: includes/cpt.php:27
+msgid "No Project found"
+msgstr "Aucun projet trouvé"
+
+#: includes/cpt.php:28
+msgid "No Project found in Trash"
+msgstr "﻿Aucun projet trouvé dans la corbeille"
+
+#: includes/cpt.php:35
+msgid "projects"
+msgstr "projets"
+
+#: includes/cpt.php:36
+msgid "Portfolio projects"
+msgstr "Projets du Portfolio"
+
+#: includes/cpt.php:64
+msgctxt "Taxonomy General Name"
+msgid "Projects Categories"
+msgstr "﻿Catégories de projets"
+
+#: includes/cpt.php:65
+msgctxt "Taxonomy Singular Name"
+msgid "Project Category"
+msgstr "﻿Catégorie de projet"
+
+#: includes/cpt.php:66
+msgid "Projects Categories"
+msgstr "﻿Catégories de projets"
+
+#: includes/cpt.php:67
+msgid "All Categories"
+msgstr "﻿Toutes les catégories"
+
+#: includes/cpt.php:68
+msgid "Parent Category"
+msgstr "﻿Catégorie parente"
+
+#: includes/cpt.php:69
+msgid "Parent Category:"
+msgstr "﻿Catégorie parente:"
+
+#: includes/cpt.php:70
+msgid "New Category"
+msgstr "﻿Nouvelle catégorie"
+
+#: includes/cpt.php:71
+msgid "Add New Category"
+msgstr "﻿Ajouter une nouvelle catégorie"
+
+#: includes/cpt.php:72
+msgid "Edit Category"
+msgstr "﻿Éditer la catégorie"
+
+#: includes/cpt.php:73
+msgid "Update Category"
+msgstr "﻿Mettre à jour la catégorie"
+
+#: includes/cpt.php:74
+msgid "Separate Categories with commas"
+msgstr "﻿Séparer les catégories par des virgules"
+
+#: includes/cpt.php:75
+msgid "Search Categories"
+msgstr "Chercher dans les catégories"
+
+#: includes/cpt.php:76
+msgid "Add or remove Categories"
+msgstr "﻿Ajouter ou supprimer des catégories"
+
+#: includes/cpt.php:77
+msgid "Choose from the most used Categories"
+msgstr "﻿Choisissez parmi les catégories les plus utilisées"
+
+#: includes/cpt.php:78
+msgid "Not Found"
+msgstr "﻿Non trouvé"
+
+#~ msgid "project"
+#~ msgstr "projet"
+
+#~ msgid "work"
+#~ msgstr "travaux"
+
+#~ msgid "Sorry, no portfolio entries found"
+#~ msgstr "Désolé, aucun élément de portfolio n'a été trouvé"
+
+#~ msgid "Portfolio - 2 Columns"
+#~ msgstr "Portfolio - 2 Columns"
+
+#~ msgid "Portfolio - 3 Columns"
+#~ msgstr "Portfolio - 3 Columns"
+
+#~ msgid "Portfolio - 4 Columns"
+#~ msgstr "Portfolio - 4 Columns"
+
+#~ msgctxt "Taxonomy General Name"
+#~ msgid "Categories"
+#~ msgstr "Catégories"
+
+#~ msgctxt "Taxonomy Singular Name"
+#~ msgid "Category"
+#~ msgstr "﻿Catégorie"
