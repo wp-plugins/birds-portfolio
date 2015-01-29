@@ -1,0 +1,100 @@
+/**
+* Admin CSS
+*
+* @package    birds-portfolio
+* @subpackage birds-portfolio/admin/css
+* @since      1.0.0
+*/
+
+#birds-metaboxes-portfolio {
+    -webkit-box-shadow: 1px 1px 5px 0px #cfcfcf;
+    -moz-box-shadow: 1px 1px 5px 0px #cfcfcf;
+    box-shadow: 1px 1px 5px 0px #cfcfcf;
+    filter: progid: DXImageTransform.Microsoft.Shadow(color=#cfcfcf, Direction=134, Strength=5);
+    -o-box-shadow: 1px 1px 5px 0px #cfcfcf;
+}
+
+#birds-metaboxes-portfolio > h3 {
+    background-color: #e9ecef;
+}
+
+#birds-metaboxes-portfolio > h3 > span {
+    padding: 20px 0;
+    color: #666;
+    letter-spacing: -1px;
+    font-size: 1.8em;
+}
+
+#birds-block {
+    overflow: hidden;
+    border-bottom: 1px solid #eee;
+}
+
+.birds-label {
+    display: inline;
+    float: left;
+    margin-right: 5%;
+    padding: 20px 0;
+    width: 25%;
+}
+
+.birds-label .description {
+    color: #999;
+}
+
+.birds-input {
+    display: inline;
+    float: right;
+    padding: 25px 0;
+    width: 70%;
+}
+
+#birds-images-list li {
+    position: relative;
+    display: inline;
+    float: left;
+    margin: 0 10px 10px 0;
+    /*width: 150px;*/
+
+    padding: 3px 3px 0;
+    border: 1px dotted #999;
+    text-align: center;
+}
+
+#birds-images-list li img {
+    cursor: move;
+}
+
+#birds-images-list li:hover .birds-delete {
+    opacity: 1;
+}
+
+.birds-delete {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    padding: 2px;
+    border-radius: 20px;
+    background: #000;
+    background: rgba(0, 0, 0, .8);
+    color: #fff;
+    text-decoration: none;
+    opacity: 0;
+    -webkit-transition: opacity 0.25s 0s ease-in-out;
+    -moz-transition: opacity 0.25s 0s ease-in-out;
+    -o-transition: opacity 0.25s 0s ease-in-out;
+    transition: opacity 0.25s 0s ease-in-out;
+}
+
+.birds-delete:hover {
+    background-color: #D14841;
+    color: #fff;
+}
+
+.birds-sortable-placeholder {
+    background: #eee;
+}
+
+th#thumbnail {
+    width: 150px;
+}
