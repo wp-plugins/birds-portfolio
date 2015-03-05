@@ -1,0 +1,339 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Birds Portfolio\n"
+"POT-Creation-Date: 2015-01-26 11:45+0100\n"
+"PO-Revision-Date: 2015-01-26 11:45+0100\n"
+"Last-Translator: Frédéric Serva <fred.serva@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin.php:22
+msgid "Enter project title here"
+msgstr ""
+
+#: admin/admin.php:41
+msgid "Featured Image"
+msgstr ""
+
+#: admin/admin.php:43
+msgid "Project Title"
+msgstr ""
+
+#: admin/admin.php:44
+msgid "Categories"
+msgstr ""
+
+#: admin/messages.php:17
+#, php-format
+msgid "Project updated. <a href=\"%s\">View Project</a>"
+msgstr ""
+
+#: admin/messages.php:18
+msgid "Custom field updated."
+msgstr ""
+
+#: admin/messages.php:19
+msgid "Custom field deleted."
+msgstr ""
+
+#: admin/messages.php:20
+msgid "Project updated."
+msgstr ""
+
+#: admin/messages.php:21
+#, php-format
+msgid "Project restored to revision from %s"
+msgstr ""
+
+#: admin/messages.php:22
+#, php-format
+msgid "Project published. <a href=\"%s\">View It</a>"
+msgstr ""
+
+#: admin/messages.php:23
+msgid "Project saved."
+msgstr ""
+
+#: admin/messages.php:24
+#, php-format
+msgid "Project submitted. <a target=\"_blank\" href=\"%s\">Preview Project</a>"
+msgstr ""
+
+#: admin/messages.php:25
+#, php-format
+msgid ""
+"Project scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Project</a>"
+msgstr ""
+
+#. translators: Publish box date format, see http://php.net/date
+#: admin/messages.php:27
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: admin/messages.php:28
+#, php-format
+msgid ""
+"Project draft updated. <a target=\"_blank\" href=\"%s\">Preview Project</a>"
+msgstr ""
+
+#: admin/metabox.php:24
+msgid "Project Informations"
+msgstr ""
+
+#: admin/metabox.php:44
+msgid "Short Description"
+msgstr ""
+
+#: admin/metabox.php:45
+msgid "A short description of the project."
+msgstr ""
+
+#: admin/metabox.php:59
+msgid "Client Name"
+msgstr ""
+
+#: admin/metabox.php:60
+msgid "Enter the name of your Client."
+msgstr ""
+
+#: admin/metabox.php:65
+msgid "Company Name"
+msgstr ""
+
+#: admin/metabox.php:74
+msgid "Testimonial"
+msgstr ""
+
+#: admin/metabox.php:75
+msgid ""
+"Enter a testimonial from your Client to be displayed on the single Project "
+"page"
+msgstr ""
+
+#: admin/metabox.php:89
+msgid "Project Link"
+msgstr ""
+
+#: admin/metabox.php:90
+msgid "Enter an URL to link this Portfolio Project to your Client Website."
+msgstr ""
+
+#: admin/metabox.php:104 assets/templates/single-portfolio.php:95
+msgid "Country"
+msgstr ""
+
+#: admin/metabox.php:105
+msgid "Enter the country where this project has been realised."
+msgstr ""
+
+#: admin/metabox.php:119 assets/templates/single-portfolio.php:102
+msgid "Project Manager"
+msgstr ""
+
+#: admin/metabox.php:120
+msgid "Enter the name of the Project Manager."
+msgstr ""
+
+#: admin/metabox.php:134
+msgid "Project Gallery"
+msgstr ""
+
+#: admin/metabox.php:135
+msgid "Upload the images related to this project."
+msgstr ""
+
+#: admin/metabox.php:135
+msgid "The Featured Image won't appear in the slider"
+msgstr ""
+
+#: admin/metabox.php:135
+msgid "You can drag and drop the images to reorder them."
+msgstr ""
+
+#: admin/metabox.php:141
+msgid "Add Images"
+msgstr ""
+
+#: admin/metabox.php:151 birds-portfolio.php:143
+msgid "Remove image"
+msgstr ""
+
+#: admin/metabox.php:167
+msgid "Video Embedded Code"
+msgstr ""
+
+#: admin/metabox.php:168
+msgid "Insert a video into your project page."
+msgstr ""
+
+#: admin/metabox.php:168
+msgid "The video will appear before the Image Gallery in the slideshow."
+msgstr ""
+
+#: assets/templates/archive-portfolio.php:71
+msgid "No project in this category"
+msgstr ""
+
+#: assets/templates/portfolio.php:47
+msgid "All"
+msgstr ""
+
+#: assets/templates/single-portfolio.php:88
+msgid "Client"
+msgstr ""
+
+#: assets/templates/single-portfolio.php:111
+msgid "Category"
+msgstr ""
+
+#: assets/templates/single-portfolio.php:125
+msgid "Visite Website:"
+msgstr ""
+
+#: assets/templates/single-portfolio.php:142
+msgid "Related Work"
+msgstr ""
+
+#: birds-portfolio.php:141
+msgid "Upload or Choose the Image Files to include to the Project"
+msgstr ""
+
+#: birds-portfolio.php:142
+msgid "Add to Gallery"
+msgstr ""
+
+#: includes/class-page-templater.php:45 includes/cpt.php:18
+msgid "Portfolio"
+msgstr ""
+
+#: includes/cpt.php:16
+msgctxt "Post Type General Name"
+msgid "Projects"
+msgstr ""
+
+#: includes/cpt.php:17
+msgctxt "Post Type Singular Name"
+msgid "Project"
+msgstr ""
+
+#: includes/cpt.php:19
+msgid "Parent Project:"
+msgstr ""
+
+#: includes/cpt.php:20
+msgid "All Projects"
+msgstr ""
+
+#: includes/cpt.php:21
+msgid "View Project"
+msgstr ""
+
+#: includes/cpt.php:22
+msgid "Add New Project"
+msgstr ""
+
+#: includes/cpt.php:23
+msgid "Add New"
+msgstr ""
+
+#: includes/cpt.php:24
+msgid "Edit Project"
+msgstr ""
+
+#: includes/cpt.php:25
+msgid "Update Project"
+msgstr ""
+
+#: includes/cpt.php:26
+msgid "Search Project"
+msgstr ""
+
+#: includes/cpt.php:27
+msgid "No Project found"
+msgstr ""
+
+#: includes/cpt.php:28
+msgid "No Project found in Trash"
+msgstr ""
+
+#: includes/cpt.php:35
+msgid "projects"
+msgstr ""
+
+#: includes/cpt.php:36
+msgid "Portfolio projects"
+msgstr ""
+
+#: includes/cpt.php:64
+msgctxt "Taxonomy General Name"
+msgid "Projects Categories"
+msgstr ""
+
+#: includes/cpt.php:65
+msgctxt "Taxonomy Singular Name"
+msgid "Project Category"
+msgstr ""
+
+#: includes/cpt.php:66
+msgid "Projects Categories"
+msgstr ""
+
+#: includes/cpt.php:67
+msgid "All Categories"
+msgstr ""
+
+#: includes/cpt.php:68
+msgid "Parent Category"
+msgstr ""
+
+#: includes/cpt.php:69
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/cpt.php:70
+msgid "New Category"
+msgstr ""
+
+#: includes/cpt.php:71
+msgid "Add New Category"
+msgstr ""
+
+#: includes/cpt.php:72
+msgid "Edit Category"
+msgstr ""
+
+#: includes/cpt.php:73
+msgid "Update Category"
+msgstr ""
+
+#: includes/cpt.php:74
+msgid "Separate Categories with commas"
+msgstr ""
+
+#: includes/cpt.php:75
+msgid "Search Categories"
+msgstr ""
+
+#: includes/cpt.php:76
+msgid "Add or remove Categories"
+msgstr ""
+
+#: includes/cpt.php:77
+msgid "Choose from the most used Categories"
+msgstr ""
+
+#: includes/cpt.php:78
+msgid "Not Found"
+msgstr ""
